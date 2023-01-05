@@ -1,0 +1,25 @@
+{
+  "name": "mmmovie",
+  "version": "1.0.0",
+  "description": "MMMovie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dolaku/mmmovie.git"
+  },
+  "keywords": [
+    "mmmovie"
+  ],
+  "author": "DK, HH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dolaku/mmmovie/issues"
+  },
+  "homepage": "https://github.com/dolaku/mmmovie#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
