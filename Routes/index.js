@@ -18,5 +18,9 @@ app.get("/", (request, response) => {
 
 });
 
+// get movie controller
+const movieController = require("../Controller/movie");
+
+
 // listen to incoming 
 app.listen(process.env.PORT || 3000, () => console.log("App available on http://localhost:3000"))
