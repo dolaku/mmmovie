@@ -19,7 +19,7 @@ app.get("/", (request, response) => {
 });
 
 // get movie controller
-const movieController = require("../Controller/movie");
+const movieController = require("./Controller/movie");
 
 
 // listen to incoming 
